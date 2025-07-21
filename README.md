@@ -1,8 +1,6 @@
-# 🎵 Spotify Clone
+🎵 Spotify Clone
 
 A responsive **Spotify homepage clone** built using **HTML** and **Vanilla CSS**. This project mimics the layout and feel of the original Spotify web interface and is designed to improve my frontend skills including layout, positioning, and component structuring.
-
-![Screenshot](./screenshotsc.png)
 
 ---
 
@@ -37,8 +35,7 @@ A responsive **Spotify homepage clone** built using **HTML** and **Vanilla CSS**
 
 ## 📸 Preview
 
-![Spotify Clone Screenshot](./screenshotsc.png)
+![Spotify Clone Screenshot]<img width="1353" height="638" alt="image" src="https://github.com/user-attachments/assets/d0272376-7f6c-4a55-afa6-c92ac50309ed" />
 
----
 
 
